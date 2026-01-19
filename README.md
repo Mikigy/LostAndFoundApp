@@ -122,20 +122,6 @@ ID   Name     Status    Reporter    Claimer    Date Claimed
 
 ---
 
-## How to Run
-1. Compile the program using a C++ compiler:
-```bash
-   g++ main.cpp -o lost_and_found
-````
-
-2. Run the executable:
-
-```bash
-   ./lost_and_found
- ```
-
----
-
 ## Author
 
 Developed as part of a **C++ programming assignment** to practice:

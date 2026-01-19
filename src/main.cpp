@@ -3,6 +3,7 @@
 #include "search.h"
 #include "claim.h"
 #include "utils.h"
+#include "lostfound.h"
 
 using namespace std;
 
